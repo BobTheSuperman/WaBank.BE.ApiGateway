@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaBank.BE.ApiGateway", "WaBank.BE.ApiGateway\WaBank.BE.ApiGateway.csproj", "{C0C8D8AC-A7E9-4638-9968-395EB1104E6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaBank.BE.ApiGateway.Tests", "WaBank.BE.ApiGateway.Tests\WaBank.BE.ApiGateway.Tests.csproj", "{0CC9C5AC-369F-4EEB-BDA3-F399FB867B2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C0C8D8AC-A7E9-4638-9968-395EB1104E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0C8D8AC-A7E9-4638-9968-395EB1104E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0C8D8AC-A7E9-4638-9968-395EB1104E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC9C5AC-369F-4EEB-BDA3-F399FB867B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC9C5AC-369F-4EEB-BDA3-F399FB867B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC9C5AC-369F-4EEB-BDA3-F399FB867B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC9C5AC-369F-4EEB-BDA3-F399FB867B2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
